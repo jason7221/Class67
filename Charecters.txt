@@ -1,3 +1,4 @@
 King 
 Queen
 Guard
+Soldier
